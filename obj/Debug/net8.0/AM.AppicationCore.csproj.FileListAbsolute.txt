@@ -1,0 +1,5 @@
+C:\Users\OMGBoomRito1\Desktop\AirportManagement\Aireport Managment\Aireport Managment\obj\Debug\net8.0\AM.AppicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMGBoomRito1\Desktop\AirportManagement\Aireport Managment\Aireport Managment\obj\Debug\net8.0\AM.AppicationCore.AssemblyInfoInputs.cache
+C:\Users\OMGBoomRito1\Desktop\AirportManagement\Aireport Managment\Aireport Managment\obj\Debug\net8.0\AM.AppicationCore.AssemblyInfo.cs
+C:\Users\OMGBoomRito1\Desktop\AirportManagement\Aireport Managment\Aireport Managment\obj\Debug\net8.0\AM.AppicationCore.csproj.CoreCompileInputs.cache
+C:\Users\OMGBoomRito1\Desktop\AirportManagement\Aireport Managment\Aireport Managment\obj\Debug\net8.0\AM.AppicationCore.sourcelink.json
